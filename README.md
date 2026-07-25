@@ -83,7 +83,7 @@
 | Total Column Water Vapour | `total_column_water_vapour` | 0.17175 |
 | Total Cloud Cover | `total_cloud_cover` | 0.34688 |
 
-В эта версия модели имеет квантование, основным изменением была замена функции потерь с KLD на Physics-informed loss function, что с учетом особенностей выборки не принесло увеличения скора
+В эта версия модели имеет квантование, основным изменением была замена функции потерь с KLD на Physics-informed loss function, что также дало прирост качества 
 
 
 ### Итоги
